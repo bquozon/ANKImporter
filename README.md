@@ -18,7 +18,7 @@ A simple tool to import flashcards into Anki using Anki Connect.
 
 2. Clone and set up the project:
 ```bash
-git clone https://github.com/Carbonthinker/ANKImporter.git
+git clone https://github.com/bquozon/ANKImporter.git
 cd ANKImporter
 pip install -r requirements.txt
 ```
